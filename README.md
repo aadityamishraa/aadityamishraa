@@ -1,12 +1,13 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+mono&size=18&pause=1000&width=435&lines=I'm+a+Frontend+Developer;UI%2FUX+designer;Learner" alt="Typing SVG" /></a>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=I'm+a+Frontend+Developer;UI%2FUX+Designer+and;a+learner)](https://git.io/typing-svg)
 
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🧔 About me</h2>
 
 ###
 
@@ -14,7 +15,26 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">🌐 Connect with</h2>
+
+###
+
+<div align="left">
+  <a href="aadityamishra216@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+   <a href="https://www.linked.com/in/aadityamishraa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.twitter.com/_aadityamishra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+ 
+</div>
+
+###
+
+<h2 align="left">⚒️ Skills</h2>
 
 ###
 
@@ -32,21 +52,40 @@
 
 ###
 
-<h2 align="left">Let's Connect with</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
-<div align="left">
-  <a href="aadityamishra216@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.twitter.com/_aadityamishra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linked.com/in/aadityamishraa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+<div align="center" style="display:flex; justify-content: center;">
+  <span>
+
+    
+  ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityamishraa&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true)
+  
+  </span>
+  <span>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityamishraa&layout=compact&theme=dracula&hide_border=true)](https://github.com/aadityamishraa/github-readme-stats)
+  </span>
+</div>
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=aadityamishraa&theme=dracula&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ###
+
+<h2 align="left">📑 Latest Blog</h2>
+
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=aadityamishraa)](https://medium.com/@aadityamishraa)
+
+###
+
+<h2 align="center">🔖 Summary</h2>
+
+###
+<div align="center">
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aadityamishraa&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
