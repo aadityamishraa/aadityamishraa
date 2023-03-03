@@ -56,7 +56,7 @@
 
 ###
 
-<div align="center" style="display:flex; justify-content: space-around;">
+<div align="left" style="display:flex; justify-content: space-around;">
   <span>
 
     
