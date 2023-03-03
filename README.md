@@ -56,19 +56,16 @@
 
 ###
 
-<div align="left" style="display:flex; justify-content: space-around;">
+<div align="left">
   <span>
 
     
   ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityamishraa&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true)
   
   </span>
-  <span>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityamishraa&layout=compact&theme=dracula&hide_border=true)](https://github.com/aadityamishraa/github-readme-stats)
-  </span>
+  
 </div>
-<div align="center">
+<div align="left">
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=aadityamishraa&theme=dracula&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
 </div>
