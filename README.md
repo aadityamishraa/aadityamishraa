@@ -74,7 +74,7 @@
 
 <h2 align="left">📑 Latest Blog</h2>
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=aadityamishraa)](https://medium.com/@aadityamishraa)
+[![Aaditya Mishra Medium](https://github-readme-medium.vercel.app/?username=aadityamishraa)](https://medium.com/@aadityamishraa)
 
 ###
 
