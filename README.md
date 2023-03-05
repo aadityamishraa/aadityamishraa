@@ -12,11 +12,11 @@
 ###
 
 <p align="left">👋 Hey, I'm Aaditya Mishra!<br>
-📱💻 I'm a front-end developer passionate about creating excellent web and mobile apps <br> 
+💻 I'm a front-end developer passionate about creating excellent web and mobile apps 📱<br> 
 🎨 I'm also a UI/UX designer, so I'm all about making things look and feel great! <br>
-🎯 When I'm not coding, you'll probably find me sketching out wireframes or obsessing over color palettes (seriously, it's a bit of an addiction 😁) <br>
+🎯 When I'm not coding, you'll probably find me sketching out wireframes or obsessing <br> &nbsp &nbsp &nbsp over color palettes (seriously, it's a bit of an addiction 😁) <br>
 🤝 I love collaborating with other creative folks, so don't hesitate to reach out and say hi! <br>
-🚀 Let's make something awesome together!♂️</p>
+🚀 Let's make something awesome together!</p>
 
 ###
 
