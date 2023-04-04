@@ -92,6 +92,6 @@
 ###
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aadityamishraa&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aadityamishraa&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/aadityamishraa)
 
 </div>
