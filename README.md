@@ -87,7 +87,7 @@
 
 ###
 
-<h2 align="center">🔖 Summary</h2>
+<h2 align="center">Summary</h2>
 
 ###
 <div align="center">
