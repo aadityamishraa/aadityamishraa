@@ -76,10 +76,7 @@
   </span>
   
 </div>
-<div align="left">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=aadityamishraa&theme=dracula&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
-</div>
 
 ###
 
