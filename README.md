@@ -64,22 +64,6 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <span>
-
-    
-  ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityamishraa&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true)
-  
-  </span>
-  
-</div>
-
-
-###
 
 <h2 align="left">📑 Latest Blog</h2>
 
